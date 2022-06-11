@@ -1,0 +1,16 @@
+{
+  "name": "tes",
+  "description": "//TODO: WIP",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "author": "jakobkroenun",
+  "license": "UNLISENCED",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+    "tsc": "tsc -p tsconfig.json",
+  },
+  "devDependencies": {
+    "@types/node": "^16",
+    "typescript": "^4"
+  }
+}
